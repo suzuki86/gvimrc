@@ -50,7 +50,7 @@ set tabstop=2
 "自動挿入されるタブを2文字分で表示させる
 set shiftwidth=2
 
-"
+"タブキーでタブを入力したときに挿入される空白数を tabstop と同じにする
 set softtabstop=0
 
 "ウインドウの高さを150にする
