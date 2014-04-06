@@ -1,3 +1,6 @@
+"ファイルを開いたときに文字コードを自動認識させる
+set fileencodings=ucs-bom,iso-2022-jp,utf-8,cp932,euc-jp,default,latin
+
 "インデントを実行しても選択を解除しない
 vnoremap <silent> > >gv
 vnoremap <silent> < <gv
